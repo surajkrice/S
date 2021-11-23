@@ -6,7 +6,7 @@ Step 1 - Install Xampp/Wampp on your System.
 
 Step 2 - Go to folder where Xampp installed.
 
-Step 3 - Download code and past it inside any folder of htdoc.
+Step 3 - Download code and move all files in on folder. then, past it inside any folder of htdoc.
 
 Step 4 - Run Xampp and start Apache and Mysql.
 
