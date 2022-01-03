@@ -13,3 +13,9 @@ Step 4 - Run Xampp and start Apache and Mysql.
 Step 5 - Open any browser and search localhost/phpmyadmin and create new database and import sms.sql file
 
 Step 6 -  then, Open new tab and search localhost/*folder-name-of-source-code*/index.php
+
+
+
+
+<h1>Admin Panel</h>
+<img src="https://i.imgur.com/Xkhpo1X.png" alt="admin panel"></mg>
