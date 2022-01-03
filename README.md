@@ -17,5 +17,5 @@ Step 6 -  then, Open new tab and search localhost/*folder-name-of-source-code*/i
 
 
 
-<h1>Admin Panel</h>
+<h1>Admin Panel</h><br>
 <img src="https://i.imgur.com/Xkhpo1X.png" alt="admin panel"></mg>
